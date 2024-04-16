@@ -7,7 +7,7 @@
 1. Убедитесь, что у вас установлен Node.js (v20.11.1) и PostgreSQL (15.3).
 2. Склонируйте репозиторий:
 
-`git clone <repository_url>`
+`git clone <https://github.com/Alekseyshing/project_alef.git>`
 
 3. Установите зависимости:
 
